@@ -1,1 +1,7 @@
-# Ethical_1
+<html>
+  <head>
+    <title>First page</title>
+  </head>
+  <body bgcolor='yellow'>
+  </body>
+</html>
